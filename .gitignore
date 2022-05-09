@@ -1,5 +1,6 @@
 *.json
 *.xml
+*.owl
 tempowl1.txt
 tempowl2.txt
 
