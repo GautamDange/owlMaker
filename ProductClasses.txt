@@ -1,0 +1,52 @@
+ <!-- http://knowrob.org/kb/shop.owl#class_200 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_200">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_201 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_201">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_202 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_202">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_203 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_203">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_204 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_204">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_205 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_205">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_206 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_206">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_207 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_207">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_208 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_208">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_209 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_209">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_210 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_210">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_211 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_211">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>
+    <!-- http://knowrob.org/kb/shop.owl#class_212 -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#class_212">
+        <rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Product"/>
+    </owl:Class>

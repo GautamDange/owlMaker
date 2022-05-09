@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "GLTAB": "20210402 ",
+        "GTIN": "000000000100000968",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB2",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    },
+    {
+      "E1WBB01": {
+        "AENKZ": "DIRC",
+        "BSORT": "6",
+        "GLTAB": "20210402 ",
+        "GTIN": "000000000100000969",
+        "LANG_ISO": "DE",
+        "LOCNR": "YLB2",
+        "SEG_REPEAT": "X",
+        "SPRAS": "D",
+        "WAERS": "EUR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+ ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    <!-- http://knowrob.org/kb/shop.owl#ArticleNumber -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#ArticleNumber"/>
+    <!-- http://knowrob.org/kb/shop.owl#Product -->
+    <owl:Class rdf:about="http://knowrob.org/kb/shop.owl#Product"/>

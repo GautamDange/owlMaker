@@ -1,0 +1,25 @@
+ ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+    <!-- http://knowrob.org/kb/knowrob.owl#MassAttribute -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/knowrob.owl#MassAttribute"/>
+    <!-- http://knowrob.org/kb/shop.owl#depthOfProduct -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#depthOfProduct"/>
+    <!-- http://knowrob.org/kb/shop.owl#erpShelfId -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#erpShelfId"/>
+    <!-- http://knowrob.org/kb/shop.owl#erpShelfLayerId -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#erpShelfLayerId"/>
+    <!-- http://knowrob.org/kb/shop.owl#gtin -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#gtin"/>
+    <!-- http://knowrob.org/kb/shop.owl#heightOfProduct -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#heightOfProduct"/>
+    <!-- http://knowrob.org/kb/shop.owl#numberOfFacings -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#numberOfFacings"/>
+    <!-- http://knowrob.org/kb/shop.owl#volumeOfProduct -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#volumeOfProduct"/>
+    <!-- http://knowrob.org/kb/shop.owl#widthOfProduct -->
+    <owl:DatatypeProperty rdf:about="http://knowrob.org/kb/shop.owl#widthOfProduct"/>
+    <!-- 

@@ -1,0 +1,283 @@
+
+<owl:Class rdf:about="http://knowrob.org/kb/shop.owl#000000000100000968">
+<rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Mash"/>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#articleNumberOfProduct"/>
+<owl:hasValue rdf:resource="http://knowrob.org/kb/shop.owl#4004980506206486"/>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/knowrob.owl#netWeight"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200.000</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#depthOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">8.600</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#heightOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.700</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#widthOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">8.600</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#isoLanguageCodeOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">DE</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#descriptionOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">ltje Erdnsse, gerstet&amp;gesalzen,200g</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#onwhichshelf"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">01</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#layerofshelf"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#positiononShelfLayer"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">02</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#numberOfFacings"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#denominatorBaseUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#numeratorBaseUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#productType"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">201</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#ExtraDescription"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">YHAW</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#productUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">PCE</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#dimensionUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">CMT</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#weightUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">GRM</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volume"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.569</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volumeUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">DMQ</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#orientationYaw"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">01</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volume"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.569</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volume"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.569</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+</owl:Class>
+<owl:Class rdf:about="http://knowrob.org/kb/shop.owl#000000000100000969">
+<rdfs:subClassOf rdf:resource="http://knowrob.org/kb/shop.owl#Mash"/>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#articleNumberOfProduct"/>
+<owl:hasValue rdf:resource="http://knowrob.org/kb/shop.owl#4011800521226"/>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/knowrob.owl#netWeight"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.000</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#depthOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">14.200</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#heightOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.700</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#widthOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.200</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#isoLanguageCodeOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">DE</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#descriptionOfProduct"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">Corny Msliriegel Schokolade</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#onwhichshelf"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">01</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#layerofshelf"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#positiononShelfLayer"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">01</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#numberOfFacings"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#denominatorBaseUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#numeratorBaseUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#productType"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">201</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#ExtraDescription"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">YHAW</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#productUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">PCE</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#dimensionUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">CMT</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#weightUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">GRM</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volume"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">101.388</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volumeUnit"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">CMQ</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#orientationYaw"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">01</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volume"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">101.388</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+<rdfs:subClassOf>
+<owl:Restriction>
+<owl:onProperty rdf:resource="http://knowrob.org/kb/shop.owl#volume"/>
+<owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#float">101.388</owl:hasValue>
+</owl:Restriction>
+</rdfs:subClassOf>
+</owl:Class>
